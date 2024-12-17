@@ -1,0 +1,46 @@
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore virtual environment directories
+venv/
+env/
+*.venv
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore datasets (if stored locally and not in a cloud storage)
+data/
+
+# Ignore model files (if not needed for version control)
+*.h5
+*.pkl
+*.sav
+
+# Ignore log files
+*.log
+
+# Ignore environment files (for secret variables, etc.)
+.env
+
+# Ignore IDE/editor configuration files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Ignore system files (macOS, Windows, Linux)
+.DS_Store
+Thumbs.db
+
+# Ignore build directories (for example, if you're using a custom build process)
+build/
+dist/
+out/
+
+# Ignore any temporary files
+*.tmp
+*.bak
+*.swp
