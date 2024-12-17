@@ -703,7 +703,7 @@ plt.title('Average Price of Avocado According to Region')
 
 
     
-![png](avocado/new%20folder/output_15_1.png)
+![png](new-folder/output_15_1.png)
     
 
 
