@@ -741,7 +741,7 @@ plt.title('Average of Total Volume According to Region')
 
 
     
-![png](avocado/new%20folder/output_16_1.png)
+![png](new-folder/output_16_1.png)
 
     
 
@@ -795,7 +795,7 @@ plt.show()
 
 
     
-![png](avocado/new%20folder/output_19_0.png)
+![png](new-folder/output_19_0.png)
 
     
 
@@ -813,7 +813,7 @@ plt.show()
 
 
     
-![png](avocado/new%20folder/output_20_0.png)
+![png](new-folder/output_20_0.png)
 
     
 
@@ -830,7 +830,7 @@ plt.show()
 
 
     
-![png](avocado/new%20folder/output_21_0.png)
+![png](new-folder/output_21_0.png)
 
     
 
@@ -847,7 +847,7 @@ plt.show()
 
 
     
-![png](avocado/new%20folder/output_22_0.png)
+![png](new-folder/output_22_0.png)
 
     
 
@@ -869,7 +869,7 @@ sns.distplot(a=avo.AveragePrice, kde=False, fit=norm)
 
 
     
-![png](avocado/new%20folder/output_23_0.png)
+![png](new-folder/output_23_0.png)
 
     
 
@@ -887,7 +887,7 @@ plt.show()
 
 
     
-![png](avocado/new%20folder/output_24_0.png)
+![png](new-folder/output_24_0.png)
 
     
 
@@ -903,7 +903,7 @@ plt.show()
 
 
     
-![png](avocado/new%20folder/output_26_0.png)
+![png](new-folder/output_26_0.png)
 
     
 
@@ -924,7 +924,7 @@ plt.show()
 
 
     
-![png](avocado/new%20folder/output_27_0.png)
+![png](new-folder/output_27_0.png)
 
     
 
@@ -943,7 +943,7 @@ plt.show()
 
 
     
-![png](avocado/new%20folder/output_28_0.png)
+![png](new-folder/output_28_0.png)
 
     
 
@@ -959,7 +959,7 @@ plt.show()
 
 
     
-![png](avocado/new%20folder/output_29_0.png)
+![png](new-folder/output_29_0.png)
 
     
 
@@ -1280,7 +1280,7 @@ plt.scatter(x=y_test,y=pred)
 
 
     
-![png](avocado/new%20folder/output_41_1.png)
+![png](new-folder/output_41_1.png)
 
     
 
@@ -1308,7 +1308,7 @@ plt.ylabel('Predicted Y')
 
 
     
-![png](avocado/new%20folder/output_43_1.png)
+![png](new-folder/output_43_1.png)
 
     
 
@@ -1354,7 +1354,7 @@ sns.distplot((y_test-pred),bins=50)
 
 
     
-![png](avocado/new%20folder/output_46_1.png)
+![png](new-folder/output_46_1.png)
 
     
 
@@ -1425,7 +1425,7 @@ avo.head()
 
 
     
-![png](avocado/new%20folder/output_47_1.png)
+![png](new-folder/output_47_1.png)
 
     
 
@@ -1467,7 +1467,7 @@ plt.show()
 
 
     
-![png](avocado/new%20folder/output_49_0.png)
+![png](new-folder/output_49_0.png)
 
     
 
@@ -1486,7 +1486,7 @@ plt.show()
 
 
     
-![png](avocado/new%20folder/output_50_0.png)
+![png](new-folder/output_50_0.png)
 
     
 
@@ -1508,7 +1508,7 @@ plt.show()
 
 
     
-![png](avocado/new%20folder/output_51_0.png)
+![png](new-folder/output_51_0.png)
 
     
 
@@ -1590,7 +1590,7 @@ plt.show()
 
 
     
-![png](avocado/new%20folder/output_61_0.png)
+![png](new-folder/output_61_0.png)
 
     
 
