@@ -100,6 +100,12 @@ The Avaocado team is working on incorporating the following enhancements into th
 
 The Avaocado machine learning model is a powerful tool for automating meal planning based on individual user preferences. By continually learning from user feedback and incorporating real-time data, it provides highly personalized and nutritious meal plans to improve overall health and convenience.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
+
+
 ## Contact 📧
 
 If you have questions or want to collaborate on improving the Avaocado ML model, feel free to reach out to us.
